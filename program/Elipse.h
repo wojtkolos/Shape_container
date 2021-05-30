@@ -11,7 +11,7 @@ public:
 		std::cout << "Tworze obiekt Ellipse";
 	}
 	Ellipse() {
-		std::cout << "Konstruktor domyœlny Ellipse";
+		std::cout << "Konstruktor domyÅ“lny Ellipse";
 	}
 	~Ellipse() {
 		std::cout << "Usuwam obiekt Ellipse";
