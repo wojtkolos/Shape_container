@@ -18,7 +18,3 @@ public:
 	std::vector<Shape*> getGreaterThan(double);
 
 };
-
-
-
-
